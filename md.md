@@ -7,6 +7,6 @@ title: MARKDOWN
 ## lelelel
 
 SomeList
-    * item
-    * item2
-    * [item3](/)
+ * item
+ * item2
+ * [item3](/)
