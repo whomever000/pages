@@ -1,5 +1,7 @@
 ---
 title: MARKDOWN
+layout: master
+test: lel
 ---
 
 # Headinhlel
@@ -10,7 +12,7 @@ SomeList:
 
  * item
  * item2
- * [item3](/)
+ * [item3](/pages/)
 
 
 # asd
